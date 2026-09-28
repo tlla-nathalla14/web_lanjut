@@ -1,0 +1,2 @@
+# Prevent direct access to model files
+Deny from all
